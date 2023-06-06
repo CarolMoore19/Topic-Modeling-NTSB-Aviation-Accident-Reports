@@ -1,3 +1,3 @@
 # Text-Analytics-NTSB-Aviation-Accident-Reports
 
-Class project for Exploratory Text Analytics.  
+Topic modeling and t-SNE for class project for Exploratory Text Analytics.  
